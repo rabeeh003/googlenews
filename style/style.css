@@ -252,6 +252,8 @@ header {
     padding-top: 10px;
     line-height: 27px;
     letter-spacing: .5px;
+    font-weight: 700;
+    font-style: italic;
 }
 
 .con-r {
